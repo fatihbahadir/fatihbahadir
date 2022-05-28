@@ -13,7 +13,9 @@
 
 
 ## CONNECT WITH ME
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+1. [Linkedin](https://www.linkedin.com/in/fatih-bahad%C4%B1r-213a311ba/)
+2. [Twitter](https://twitter.com/lodylol_)
+3. [Gmail](hunkarhyme@gmail.com)
 
 
 
