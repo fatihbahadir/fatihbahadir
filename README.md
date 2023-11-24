@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning Machine Learning & Data Science<br>👯‍♀️ I'm looking to collaborate on web projects.<br>💬 Ask me about ReactJS, HTML, Css.<br>⚡ My hobbies: History and Philosophy, Football<br>👨‍💻 I'm a second year software engineering student
+🌱 I'm currently learning Machine Learning & Data Science<br>👯‍♀️ I'm looking to collaborate on web projects.<br>💬 Ask me about ReactJS, HTML, Css.<br>⚡ My hobbies: History and Philosophy, Football<br>👨‍💻 I'm a third year software engineering student
 
 
 ## 🌐 Socials:
