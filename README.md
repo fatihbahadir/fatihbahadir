@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning Fullstack Development<br>👯‍♀️ I'm looking to collaborate on web projects.<br>💬 Ask me about ReactJS, HTML, Css.<br>⚡ My hobbies: History and Philosophy, Football<br>👨‍💻 I'm a fourth year software engineering student
+🌱 I'm currently learning Fullstack Development, Machine Learning and Deep Learning.<br>👯‍♀️ I'm looking to collaborate on web projects.<br>💬 Ask me about ReactJS, NodeJS, HTML, CSS.<br>⚡ My hobbies: History and Philosophy, Football<br>👨‍💻 I'm a fourth year software engineering student
 
 
 ## 🌐 Socials:
