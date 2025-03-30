@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning Fullstack Development, Machine Learning and Deep Learning.<br>👯‍♀️ I'm looking to collaborate on web projects.<br>💬 Ask me about ReactJS, NodeJS, HTML, CSS.<br>⚡ My hobbies: History and Philosophy, Football<br>👨‍💻 I'm a fourth year software engineering student<br/>💻 Currently building [Uygununubul](https://midnightscript.com), Uygununubul machine learning modal.
+🌱 I'm currently learning Fullstack Development, Machine Learning and Deep Learning.<br>👯‍♀️ I'm looking to collaborate on web projects.<br>💬 Ask me about ReactJS, NodeJS, HTML, CSS.<br>⚡ My hobbies: History and Philosophy, Football<br>👨‍💻 I'm a fourth year software engineering student<br/>💻 Currently building [Uygununubul](https://midnightscript.com), Uygununubul machine learning model.
 
 
 ## 🌐 Socials:
