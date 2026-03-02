@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning Fullstack Development, Machine Learning and Deep Learning.<br>👯‍♀️ I'm looking to collaborate on web projects.<br>💬 Ask me about ReactJS, NodeJS, HTML, CSS.<br>⚡ My hobbies: History and Philosophy, Football<br>👨‍💻 I'm a fourth year software engineering student<br/>💻 Currently building [Uygununubul](https://uygununubul.com), Uygununubul machine learning model.
+🌱 I'm currently learning Fullstack Development, Machine Learning and Deep Learning.<br>👯‍♀️ I'm looking to collaborate on web projects.<br>💬 Ask me about ReactJS, NodeJS, HTML, CSS.<br>⚡ My hobbies: History and Philosophy, Football<br>👨‍💻 I'm a new grad software engineer<br/>💻 Currently software developer at Insider One.
 
 
 ## 🌐 Socials:
